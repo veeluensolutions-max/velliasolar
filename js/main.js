@@ -267,7 +267,7 @@ function initLeadFormModal() {
 
       const encodedMessage = encodeURIComponent(textMessage);
       // Default official number for Veeluen Solutions / Vellia Solar Private
-      const waNumber = '5511999999999'; 
+      const waNumber = '5581997620079'; 
       const waUrl = `https://wa.me/${waNumber}?text=${encodedMessage}`;
 
       // Update success button
